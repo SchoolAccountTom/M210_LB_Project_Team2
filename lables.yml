@@ -1,0 +1,2 @@
+deployment:
+- any: ['deployment/backend-stack/deployment.yaml']
