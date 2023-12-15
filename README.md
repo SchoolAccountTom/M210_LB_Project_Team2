@@ -1,4 +1,4 @@
-# M210_LB_Project_Team2
+# M210_LB_Rechner
 Project for Modul 210 LB
 
 In diesem Projekt erstellen wir eine kleine React Applikation um die möglichkeiten von Actions und GitHub aufzuzeigen. 
